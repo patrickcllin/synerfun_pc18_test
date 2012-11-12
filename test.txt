@@ -9,3 +9,5 @@ test file4
 test file5
 
 test file6
+
+test file7
